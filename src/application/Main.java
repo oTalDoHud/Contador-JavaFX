@@ -66,6 +66,7 @@ public class Main extends Application {
 		cena.getStylesheets().add("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 		
 		primaryStage.setScene(cena);
+		primaryStage.setTitle("Contador");
 		primaryStage.show();
 	}
 	
