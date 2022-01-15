@@ -29,9 +29,6 @@ Pré-requisitos: Java 11, JavaFX, eclipse
 # clonar repositório
 git clone https://github.com/oTalDoHud/Contador-JavaFX.git
 
-# entrar na pasta do projeto back end
-cd backend
-
 # executar o projeto no eclipse
 ```
 
